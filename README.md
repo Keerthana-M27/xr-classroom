@@ -1,5 +1,9 @@
 # xr-classroom
-Extended Reality Classroom Platform 
-![My Image](XR.drawio.png)
+
+Extended Reality Classroom Platform
+
+![XR Classroom Preview](XR.drawio.png)
+
+
 
 
