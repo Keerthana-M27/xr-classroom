@@ -131,36 +131,45 @@ xr-classroom/
 ```
 
 ## Tech Stack
+---
 
-🚀 XR CLASSROOM PLATFORM - TECH STACK
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 🛠️ Tech Stack
 
-🖥️ FRONTEND
-├── React.js          # UI component library
-├── JavaScript        # Programming language
-├── CSS3              # Styling & animations
-└── Three.js          # 3D background environment
+### 🖥️ Frontend
+| Technology | Purpose |
+|------------|---------|
+| React.js | UI Component Library |
+| JavaScript | Programming Language |
+| CSS3 | Styling & Animations |
+| Three.js | 3D Background Environment |
 
-⚙️ BACKEND
-├── Node.js           # Server-side runtime
-├── Express.js        # Web framework for APIs
-└── Socket.IO         # Real-time communication
+### ⚙️ Backend
+| Technology | Purpose |
+|------------|---------|
+| Node.js | Server-side Runtime |
+| Express.js | Web Framework for APIs |
+| Socket.IO | Real-time Communication |
 
-🗄️ DATABASE
-└── SQLite            # Lightweight file-based database
+### 🗄️ Database
+| Technology | Purpose |
+|------------|---------|
+| SQLite | Lightweight File-based Database |
 
-🔐 SECURITY
-├── JWT               # Token-based authentication
-├── Bcrypt.js         # Password hashing
-└── CORS              # Cross-origin security
+### 🔐 Security
+| Technology | Purpose |
+|------------|---------|
+| JWT | Token-based Authentication |
+| Bcrypt.js | Password Hashing |
+| CORS | Cross-origin Security |
 
-🛠️ TOOLS & ENVIRONMENT
-├── VS Code           # Code editor
-├── Git               # Version control
-├── GitHub            # Code repository
-├── npm               # Package manager
-└── Figma             # UI/UX Prototype design
-
+### 🛠️ Tools & Environment
+| Technology | Purpose |
+|------------|---------|
+| VS Code | Code Editor |
+| Git | Version Control |
+| GitHub | Code Repository |
+| npm | Package Manager |
+| Figma | UI/UX Prototype Design |
 
 
 ## Figma
