@@ -118,11 +118,6 @@ xr-classroom/
 │   ├── package.json             # Frontend dependencies
 │   └── package-lock.json        # Dependency lock file
 │
-
-
-
-
-
 ├── backend/
 │   └── backend/
 │       ├── node_modules/        # Installed packages
@@ -133,7 +128,7 @@ xr-classroom/
 │       └── package-lock.json    # Dependency lock file
 │
 └── README.md                    # Project documentation
-
+```
 
 ## Tech Stack
 
