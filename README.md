@@ -83,7 +83,50 @@ Extended Reality Classroom Platform
 ##  Architecture
 <img width="636" height="1416" alt="XR- Architecture drawio" src="https://github.com/user-attachments/assets/ab9b024b-761e-44f9-b10a-54a5adf2a70b" />
 
-
+## Boiler plate
+xr-classroom/
+├── frontend/
+│   ├── public/
+│   │   └── index.html          # Main HTML template
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── Background3D.js      # 3D immersive background
+│   │   │   ├── LessonBackground.js  # Lesson page background
+│   │   │   ├── Navbar.js            # Navigation component
+│   │   │   └── SubjectCard.js       # Subject card component
+│   │   ├── games/
+│   │   │   ├── AdditionGame.js      # Math - Addition
+│   │   │   ├── SubtractionGame.js   # Math - Subtraction
+│   │   │   ├── DivisionGame.js      # Math - Division
+│   │   │   ├── AlphabetsGame.js     # Language - Alphabets
+│   │   │   ├── GrammarGame.js       # Language - Grammar
+│   │   │   ├── AnimalsGame.js       # Science - Animals
+│   │   │   ├── HumanBodyGame.js     # Science - Human Body
+│   │   │   ├── BodyPartsGame.js     # Science - Body Parts
+│   │   │   ├── HealthyFoodGame.js   # Science - Healthy Food
+│   │   │   ├── ColoursGame.js       # General - Colours
+│   │   │   ├── CountriesGame.js     # Geography - Countries
+│   │   │   ├── ContinentsGame.js    # Geography - Continents
+│   │   │   ├── ComputerGame.js      # Technology - Computer
+│   │   │   ├── DrawingGame.js       # Creative - Drawing
+│   │   │   ├── CraftGame.js         # Creative - Craft
+│   │   │   ├── ExerciseGame.js      # Health - Exercise
+│   │   │   └── FunGamesGame.js      # Fun - Mini Games
+│   │   ├── App.js               # Main app component & routing
+│   │   └── index.css            # Global styles
+│   ├── package.json             # Frontend dependencies
+│   └── package-lock.json        # Dependency lock file
+│
+├── backend/
+│   └── backend/
+│       ├── node_modules/        # Installed packages
+│       ├── classroom.db         # SQLite database file
+│       ├── database.js          # Database setup & tables
+│       ├── server.js            # Main server entry point
+│       ├── package.json         # Backend dependencies
+│       └── package-lock.json    # Dependency lock file
+│
+└── README.md                    # Project documentation
 ## Prototype
 https://www.figma.com/proto/NPgRNR6PvfQcHgM5M01Qfy/Untitled?node-id=3-91&starting-point-node-id=3%3A91&t=vaajgAG5mNOBVUSA-1
 
