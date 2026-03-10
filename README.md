@@ -117,6 +117,11 @@ xr-classroom/
 │   ├── package.json             # Frontend dependencies
 │   └── package-lock.json        # Dependency lock file
 │
+
+
+
+
+
 ├── backend/
 │   └── backend/
 │       ├── node_modules/        # Installed packages
@@ -127,6 +132,9 @@ xr-classroom/
 │       └── package-lock.json    # Dependency lock file
 │
 └── README.md                    # Project documentation
+
+
+
 ## Prototype
 https://www.figma.com/proto/NPgRNR6PvfQcHgM5M01Qfy/Untitled?node-id=3-91&starting-point-node-id=3%3A91&t=vaajgAG5mNOBVUSA-1
 
