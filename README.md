@@ -163,7 +163,7 @@ xr-classroom/
 
 
 
-## Prototype
+## Figma
 https://www.figma.com/proto/NPgRNR6PvfQcHgM5M01Qfy/Untitled?node-id=3-91&starting-point-node-id=3%3A91&t=vaajgAG5mNOBVUSA-1
 
 ## Dashboard
