@@ -84,6 +84,7 @@ Extended Reality Classroom Platform
 <img width="636" height="1416" alt="XR- Architecture drawio" src="https://github.com/user-attachments/assets/ab9b024b-761e-44f9-b10a-54a5adf2a70b" />
 
 ## Boiler plate
+```
 xr-classroom/
 ├── frontend/
 │   ├── public/
