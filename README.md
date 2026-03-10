@@ -182,5 +182,4 @@ https://www.figma.com/proto/NPgRNR6PvfQcHgM5M01Qfy/Untitled?node-id=3-91&startin
 ## classroom
 <img width="1700" height="875" alt="Frame 10" src="https://github.com/user-attachments/assets/02f1f48e-58df-4a13-ab24-44c2a16037ec" />
 
-
-
+---
