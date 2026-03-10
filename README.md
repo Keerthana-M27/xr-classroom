@@ -80,3 +80,5 @@ Extended Reality Classroom Platform
 ##  Architecture
 <img width="636" height="1416" alt="XR- Architecture drawio" src="https://github.com/user-attachments/assets/ab9b024b-761e-44f9-b10a-54a5adf2a70b" />
 
+## Prototype
+https://www.figma.com/proto/NPgRNR6PvfQcHgM5M01Qfy/Untitled?node-id=3-91&starting-point-node-id=3%3A91&t=vaajgAG5mNOBVUSA-1
